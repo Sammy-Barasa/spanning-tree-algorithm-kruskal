@@ -6,7 +6,7 @@ It is a tree that contains all the vertices of a connected and undirected graph
 
 #### To find spanning tree remove (E-V+1) Edges
 
-#### Spanning tree has {V**(V-2)}
+#### Spanning tree has {V^(V-2)}
 
 #### Maximally Acyclic = Add an edge to a spanning tree
 
